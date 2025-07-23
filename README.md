@@ -49,5 +49,5 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 | DELETE | `/students/{id}` | Delete student by ID |
 
 🙋‍♂️ Author
-Avi Jain
+`Avi Jain`
 Java Full Stack Developer | Node.js Enthusiast
